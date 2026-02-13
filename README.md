@@ -7,4 +7,4 @@ This repository contains a reference implementation for an autonomous data opera
 - **Metadata Nervous System:** Unity Catalog System Tables
 
 ###  The Vision
-In a warehouse with thousands of tables, manual repair doesn't scale. This project demonstrates how an AI Agent can detect a failure, create a safe sandbox in **Lakebase**, and propose a verified fix—all before an engineer has to open a ticket.
+In a lakehouse with thousands of tables, manual repair doesn't scale. This project demonstrates how an AI Agent can detect a failure, create a safe sandbox in **Lakebase**, and propose a verified fix—all before an engineer has to open a ticket.
