@@ -1,0 +1,10 @@
+# DEMO CONFIGURATION - NO SENSITIVE DATA
+workspace:
+  catalog: "enterprise_demo_catalog"  # Generic placeholder
+  schema: "operations_lab"
+  lakebase_project: "demo-autonomous-warehouse"
+
+agent_settings:
+  model_endpoint: "databricks-meta-llama-3-3-70b-instruct"
+  safety_guardrails: enabled
+  human_in_the_loop: true
